@@ -14,8 +14,8 @@ Yak-mountain in Yong'pyong
 azaleas (*object*)  
 fill-arms you-will-go path-on spread-I-will.
 
-Going-you footsteps
-placed those flowers (*object*)
+Going-you footsteps  
+placed those flowers (*object*)  
 lightly crunch tread go-please.
 
 Me seeing revolted

@@ -1,5 +1,6 @@
 ---
-title: "Azeleas" [sic]
+title: |
+    "Azeleas" [sic]
 translator: Jaehyun Kim
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Azaleas
-translator: Kim Jongkil
+translator: Jongkil Kim
+source: |
+    Chung Han-mo. _Korean Poetry: An anthology with Critical Essays._ Seoul: The Korean Culture & Arts Foundation, 1984.
 ---
 
 When you leave,  

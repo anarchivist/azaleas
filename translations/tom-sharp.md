@@ -1,6 +1,8 @@
 ---
 title: "Azalea petals"
 translator: Tom Sharp
+source: |
+    Tom Sharp. "Azalea petals." _Fifty Loose Translations_. <https://sharpgiving.com/Sharp/LooseTranslations/poems/korean1-both.html>
 ---
 
 Let azaleas grow abundantly  

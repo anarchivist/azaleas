@@ -2,6 +2,8 @@
 title: |
     "Azeleas" [sic]
 translator: Jaehyun Kim
+source: |
+    Jaehyun Kim. _Korean poetry day: 450 poems since the 1920's._ Seoul: Hanshin, 1987.
 ---
 
 If you go away  

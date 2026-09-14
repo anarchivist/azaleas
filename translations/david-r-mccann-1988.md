@@ -1,6 +1,8 @@
 ---
 title: Azaleas
-translator: David R. McCann (1988)
+translator: David R. McCann
+source: |
+    David R. McCann. "The Meanings and Significance of So Wŏls 'Azaleas'." _Journal of Korean Studies_ 6(1) (1998). <https://doi.org/10.1353/jks.1988.0004>.
 ---
 
 Weary of seeing me, when you  

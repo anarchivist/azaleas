@@ -1,6 +1,8 @@
 ---
 title: Azaleas
-translator: Peter Lee
+translator: David R. McCann
+source: |
+    _Modern Korean Literature: An Anthology._ Ed. Peter H. Lee. Manoa: University of Hawai'i Press, 1990.
 ---
 
 When you leave,  

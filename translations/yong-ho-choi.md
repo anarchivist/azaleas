@@ -1,6 +1,8 @@
 ---
 title: "The Azaleas"
 translator: Yong Ho Choi[?]
+source: |
+    Yong Ho Choi. "Narrative approaches to lyric poetry:  On Kim Sowöl’s The Azaleas." _Public Journal of Semiotics_ II(1), January 2008.
 ---
 
 If you go away,  

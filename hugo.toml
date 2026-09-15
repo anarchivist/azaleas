@@ -12,7 +12,7 @@ uglyURLs = true
 [params]
   showAuthor = true
   colorScheme = 'magenta'
-  description = "Translations of 진달래꽃 ('Azaleas') by Kim Sowol."
+  description = "Translations of 진달래꽃 ('Azaleas') by Kim Sowol prepared for the September 17, 2026 Unpoetry at the Frye performance."
 
 [params.author]
   name = "Kim Sowol"

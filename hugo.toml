@@ -12,6 +12,7 @@ uglyURLs = true
 [params]
   showAuthor = true
   colorScheme = 'magenta'
+  description = "Translations of 진달래꽃 ('Azaleas') by Kim Sowol."
 
 [params.author]
   name = "Kim Sowol"

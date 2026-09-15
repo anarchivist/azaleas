@@ -1,1 +1,1 @@
-{{ .RawContent | plainify }}
+{{- .RawContent | plainify -}}

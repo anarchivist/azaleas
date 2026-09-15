@@ -36,3 +36,4 @@ uglyURLs = true
 [outputs]
   home = ["HTML"]
   page = ["HTML", "plaintext"]
+  section = ["HTML", "plaintext"]

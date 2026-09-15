@@ -12,4 +12,4 @@ hugo build # make sure there are no errors
 hugo serve # http://localhost:1313
 ```
 
-It's pretty much a stock Hugo site with a few template overrides and the addition of a plaintext output format; that gets output to `public/txt` for feeding into cutup generators, [Argeïphones Lyre](https://akirarabelais.com/lyre/), etc.
+It's pretty much a stock Hugo site with a few template overrides and the addition of a plaintext output format; that gets output to `public/txt` for feeding into cutup generators, [Argeïphontes Lyre](https://akirarabelais.com/lyre/), etc.

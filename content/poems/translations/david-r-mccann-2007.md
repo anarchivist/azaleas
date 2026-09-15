@@ -2,7 +2,7 @@
 title: Azaleas
 translator: David R. McCann 
 source: |
-    Kim Sowǒl. _Azaleas: A Book of Poems._ Tr. David R. McCann. New York: Columbia University Press, 2007.
+    Kim Sowŏl. _Azaleas: A Book of Poems._ Tr. David R. McCann. New York: Columbia University Press, 2007.
 ---
 
 When you turn away from seeing me  

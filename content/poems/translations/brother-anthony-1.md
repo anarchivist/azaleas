@@ -4,6 +4,7 @@ title: |
 translator: Brother Anthony of Taizé
 source: |
     Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998).
+layout: poem
 ---
 
 Me seeing revolted  
@@ -18,6 +19,6 @@ Going-you footsteps
 placed those flowers (*object*)  
 lightly crunch tread go-please.
 
-Me seeing revolted
-go-you-will-time-at
+Me seeing revolted  
+go-you-will-time-at  
 die-I-even not tears shed-I-will.

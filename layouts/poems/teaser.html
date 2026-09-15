@@ -1,0 +1,25 @@
+<article class="post">
+    <header>
+        <h2 class="post-title">
+            <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+        </h2>
+        <p class="post-meta">
+            {{ $showAuthor := .Site.Params.showAuthor | default false }}
+            {{ $author := partial "head/author.html" . }}
+            {{ if (and $showAuthor (ne $author ""))}}
+                <span class="author">{{ if (eq .Params.Lang "ko") }}{{ $author }}{{ else }}{{ i18n "by" $author }};{{ end }}</span>
+            {{ end }}
+            {{ with .Params.translator }}<span class="author">translated by {{ . }}</span>{{ end }}
+        </p>
+    </header>
+    <p class="post-content">
+        {{ .Summary }}
+    </p>
+    {{ if site.Params.readmore }}
+        {{ if .Truncated }}
+            <footer>
+                <a href="{{ .RelPermalink }}" class="read-more">{{ i18n "more" }}</a>
+            </footer>
+        {{ end }}
+    {{ end }}
+</article>

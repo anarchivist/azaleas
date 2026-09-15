@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{- $postType := .Type | lower | singularize -}}
+<article class="{{ partial "post-class.html" . }}" role="document"{{ with .Params.lang }} lang="{{ . }}"{{ end }}>
+    <header>
+        <h1 class="text-title">
+            {{ .Params.pageTitle | default .Title }}
+        </h1>
+        <p class="byline">
+            {{ if in (slice "drama" "narrative" "poem") $postType }}
+                {{ $showAuthor := .Site.Params.showAuthor | default false }}
+                {{ $author := partial "head/author.html" . }}
+                {{ if (and $showAuthor (ne $author ""))}}
+                    <span class="author">{{ if (ne .Params.Lang "ko")}}{{ i18n "by" $author }}{{ else }}{{ $author }}{{ end }}</span>
+                    {{ with .Params.translator }}<span class="author">; translated by {{ . }}</span>{{ end }}
+                {{ end }}
+            {{ end }}
+        </p>
+    </header>
+
+    <div class="{{ $postType }}-body">
+        {{ .Content }}
+    </div>
+
+    {{/* Post tags are not allowed for drama, narratives and poems */}}
+    {{ if not (in (slice "drama" "narrative" "poem") $postType) }}
+        {{ partial "post-tags.html" . }}
+    {{ end }}
+
+    {{ with .Params.source }}
+    <div class="post-meta source">
+        {{ . | markdownify }}
+    </div>
+    {{ end }}
+
+    {{ partial "comments.html" . }}
+</article>
+{{ end }}

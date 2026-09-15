@@ -7,9 +7,9 @@
             {{ $showAuthor := .Site.Params.showAuthor | default false }}
             {{ $author := partial "head/author.html" . }}
             {{ if (and $showAuthor (ne $author ""))}}
-                <span class="author">{{ if (eq .Params.Lang "ko") }}{{ $author }}{{ else }}{{ i18n "by" $author }};{{ end }}</span>
+                <span class="author">{{ if (eq .Params.Lang "ko") }}{{ $author }}{{ else }}{{ i18n "by" $author }}{{ end }}</span>
             {{ end }}
-            {{ with .Params.translator }}<span class="author">translated by {{ . }}</span>{{ end }}
+            {{ with .Params.translator }}&middot; <span class="author">translated by {{ . }}</span>{{ end }}
         </p>
     </header>
     <p class="post-content">

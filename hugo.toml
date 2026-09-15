@@ -1,6 +1,7 @@
 baseURL = 'https://azaleas.imprecision.art/'
 locale = 'en-us'
 title = 'The Azaleas Project'
+uglyURLs = true
 
 [menus]
 [[menus.main]]
@@ -18,3 +19,19 @@ title = 'The Azaleas Project'
 [module]
   [[module.imports]]
     path = 'github.com/sergeyklay/gohugo-theme-ed'
+
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["txt"]
+
+[outputFormats]
+  [outputFormats.html]
+  noUgly = true
+
+  [outputFormats.plaintext]
+    mediaType = "text/plain"
+    path = "txt"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML", "plaintext"]

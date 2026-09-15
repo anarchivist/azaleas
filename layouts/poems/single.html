@@ -11,7 +11,7 @@
                 {{ $author := partial "head/author.html" . }}
                 {{ if (and $showAuthor (ne $author ""))}}
                     <span class="author">{{ if (ne .Params.Lang "ko")}}{{ i18n "by" $author }}{{ else }}{{ $author }}{{ end }}</span>
-                    {{ with .Params.translator }}; <span class="author"> translated by {{ . }}</span>{{ end }}
+                    {{ with .Params.translator }}&middot; <span class="author"> translated by {{ . }}</span>{{ end }}
                 {{ end }}
             {{ end }}
         </p>

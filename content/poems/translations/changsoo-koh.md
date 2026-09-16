@@ -10,7 +10,7 @@ I’ll quietly let you go.
 
 I’ll pluck an armful of azaleas  
 In the Yaksan hills at Yungbyun  
-To strew over your path.
+To strew over your path.  
 Tread softly on the flowers,  
 Each step soft and silent.  
 

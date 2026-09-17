@@ -20,3 +20,8 @@
 header a, main a {
     text-decoration: underline;
 }
+
+ruby {
+    ruby-position: over;
+}
+

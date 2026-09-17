@@ -35,6 +35,11 @@ uglyURLs = true
     path = "txt"
 
 [outputs]
-  home = ["HTML", "JSON"]
-  page = ["HTML", "plaintext", "JSON"]
-  section = ["HTML", "plaintext", "JSON"]
+  home = ["HTML"]
+  page = ["HTML", "plaintext"]
+  section = ["HTML", "plaintext"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

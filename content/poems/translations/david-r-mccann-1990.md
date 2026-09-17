@@ -2,7 +2,7 @@
 title: Azaleas
 translator: David R. McCann
 source: |
-    _Modern Korean Literature: An Anthology._ Ed. Peter H. Lee. Manoa: University of Hawai'i Press, 1990.
+    _The Silence of Love: twentieth-century Korean poetry._ Peter H. Lee, ed. Honolulu: University Press of Hawaii, 1980.
 ---
 
 When you leave,  
@@ -11,7 +11,8 @@ without a word I shall gently let you go.
 
 From Mount Yak  
 in Yongbyon,  
-I shall gather armfuls of azaleas and scatter them on your way.
+I shall gather armfuls of azaleas  
+and scatter them on your way.
 
 Step by step  
 on the flowers placed before you  

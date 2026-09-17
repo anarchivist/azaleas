@@ -1,8 +1,8 @@
 ---
 title: "The Azaleas"
-translator: Yong Ho Choi[?]
+translator: Jaihiun Kim
 source: |
-    Yong Ho Choi. "Narrative approaches to lyric poetry:  On Kim Sowöl’s The Azaleas." _Public Journal of Semiotics_ II(1), January 2008.
+    Sowŏl Kim. _Fugitive Dreams_. Jaihiun Kim and Ronald B. Hatch, ed. and tr. Vancouver: Ronsdale Press, 1998.
 ---
 
 If you go away,  

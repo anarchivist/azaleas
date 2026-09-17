@@ -2,7 +2,7 @@
 title: Azaleas
 translator: David R. McCann
 source: |
-    _The Silence of Love: twentieth-century Korean poetry._ Peter H. Lee, ed. Honolulu: University Press of Hawaii, 1980.
+    Lee, Peter H., edtor. _The Silence of Love: twentieth-century Korean poetry._ Honolulu: University Press of Hawaii, 1980.
 ---
 
 When you leave,  

@@ -2,7 +2,7 @@
 title: Azaleas
 translator: Barry Cole
 source: |
-    Barry Cole. _The Visitors._ London: Methuen, 1970.
+    Cole, Barry. _The Visitors._ London: Methuen, 1970.
 ---
 
 When you leave  

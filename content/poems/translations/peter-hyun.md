@@ -3,7 +3,7 @@ title: "The Azalea"
 author: Kim So-wol
 translator: Peter Hyun
 source: |
-    Peter Hyun, ed. and tr. _Voices of the Dawn: a selection of Korean poetry from the sixth century to the present day._ London: Murray, 1960.
+    Hyun, Peter, editor and translator. _Voices of the Dawn: a selection of Korean poetry from the sixth century to the present day._ London: Murray, 1960.
 ---
 
 When you tire of my love  

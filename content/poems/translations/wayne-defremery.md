@@ -2,7 +2,7 @@
 title: Azaleas
 translator: Wayne De Fremery
 source: |
-    Peter Wayne De Fremery. _How Poetry Mattered in 1920s Korea._ 2011. Harvard University, PhD dissertation. _ProQuest_, <https://www.proquest.com/docview/879405777?accountid=14496>.
+    De Fremery, Peter Wayne. _How Poetry Mattered in 1920s Korea._ 2011. Harvard University, PhD dissertation. _ProQuest_, <https://www.proquest.com/docview/879405777?accountid=14496>.
 ---
 
 When you leave,  

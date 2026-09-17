@@ -3,7 +3,7 @@ title: |
     Untitled translation (7): "for most western readers"
 translator: Brother Anthony of Taizé
 source: |
-    Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998).
+    Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998). <https://anthony.sogang.ac.kr/Azaleas.htm>.
 ---
 
 One day you'll walk out on me, I know,  

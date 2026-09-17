@@ -29,3 +29,7 @@ rp, rt {
     font-size: 0.6em;
 }
 
+.post-meta.source::before {
+    content: "Source:";
+    font-weight: bold;
+}

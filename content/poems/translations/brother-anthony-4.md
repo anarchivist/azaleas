@@ -3,7 +3,7 @@ title: |
     Untitled translation (4): rhyming
 translator: Brother Anthony of Taizé
 source: |
-    Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998).
+    Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998). <https://anthony.sogang.ac.kr/Azaleas.htm>.
 ---
 
 I know you'll leave me one fine day.  

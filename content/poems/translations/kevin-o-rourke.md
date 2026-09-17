@@ -3,7 +3,7 @@ title: |
     Azaleas
 translator: Kevin O'Rourke
 source: |
-    _Looking for the Cow: modern Korean poems._ Kevin O'Rourke, ed. and tr. Dublin: Dedalus Press, 1999.
+    O'Rourke, Kevin, editor. and translator. _Looking for the Cow: modern Korean poems._ Dublin: Dedalus Press, 1999.
 ---
 
 If you grow so sick of me  

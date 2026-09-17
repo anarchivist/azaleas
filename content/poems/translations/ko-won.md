@@ -2,7 +2,7 @@
 title: "Azaleas"
 translator: Ko Won
 source: |
-    Ko Won, ed. _Contemporary Korean Poetry_. Iowa City: University of Iowa Press, 1970.
+    Ko Won, editor. _Contemporary Korean Poetry_. Iowa City: University of Iowa Press, 1970.
 ---
 
 When you leave, tired of me,  

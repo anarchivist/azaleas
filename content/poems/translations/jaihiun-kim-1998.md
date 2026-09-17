@@ -2,7 +2,7 @@
 title: "The Azaleas"
 translator: Jaihiun Kim
 source: |
-    Sowŏl Kim. _Fugitive Dreams_. Jaihiun Kim and Ronald B. Hatch, ed. and tr. Vancouver: Ronsdale Press, 1998.
+    Sowŏl Kim. _Fugitive Dreams_. Edited and translated byh Jaihiun Kim and Ronald B. Hatch. Vancouver: Ronsdale Press, 1998.
 ---
 
 If you go away,  

@@ -2,7 +2,7 @@
 title: The Azalea
 translator: Peter H. Lee
 source: |
-    _Anthology of Korean Poetry from the earliest era to the present._ Peter H. Lee, ed. New York: John Day, 1964.
+    Lee, Peter H., editor. _Anthology of Korean Poetry from the earliest era to the present._  New York: John Day, 1964.
 ---
 
 You're sick and tired of me.  

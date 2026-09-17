@@ -3,7 +3,7 @@ title: |
     Untitled translation (6): "a melancholy song"
 translator: Brother Anthony of Taizé
 source: |
-    Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998).
+    Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998). <https://anthony.sogang.ac.kr/Azaleas.htm>.
 ---
 
 When you say goodbye  

@@ -3,7 +3,7 @@ title: |
     Untitled translation (5): "in a hearty mode"
 translator: Brother Anthony of Taizé
 source: |
-    Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998).
+    Brother Anthony (An Sonjae). "Translating Korean Poetry," _Modern Poetry in Translation_ 13 (1998). <https://anthony.sogang.ac.kr/Azaleas.htm>.
 ---
 
 The day will come when you loathe me  

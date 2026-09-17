@@ -2,7 +2,7 @@
 title: Azaleas
 translator: Kim Jong-Gil
 source: |
-    _Korea Through her Arts_. Kim Ki-Mun, ed. Seoul: Yesul Chunchu, 1964.
+    Kim Ki-Mun, editor. _Korea Through her Arts_. Seoul: Yesul Chunchu, 1964.
 ---
 
 When you leave,  

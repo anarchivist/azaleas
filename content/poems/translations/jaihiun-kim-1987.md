@@ -3,7 +3,7 @@ title: |
     Azaleas
 translator: Jaihiun J. Kim
 source: |
-    _Korean poetry today: 450 poems since the 1920's._ Jaihiun J. Kim, ed. and tr. Seoul: Hanshin, 1987.
+    Kim, Jaihiun J., editor and translator. _Korean poetry today: 450 poems since the 1920's._ Seoul: Hanshin, 1987.
 ---
 
 If you go away  

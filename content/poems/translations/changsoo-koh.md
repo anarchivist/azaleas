@@ -2,7 +2,7 @@
 title: "Azalea Flowers"
 translator: Changsoo Koh
 source: |
-  _Best Loved Poems of Korea._ Chang-soo Ko, tr. Elizabeth, NJ: Hollym, 1994.
+  Ko Chang-soo, translator. _Best Loved Poems of Korea._  Elizabeth, NJ: Hollym, 1994.
 ---
 
 When you hate to see me  

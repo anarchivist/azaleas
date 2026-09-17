@@ -35,28 +35,28 @@ steps. You need a change of air;
 you think I will cry.  
 Humble armfuls of aza-  
 leas won't shed tears.  
-Please, please go away at last.
+Please, please go away at last.  
 Without words I will
 
-gather armfuls of aza-
-lea flowers, armfuls of
+gather armfuls of aza-  
+lea flowers, armfuls of  
 purple spread along  
-pathways. Grown weary of me,
+pathways. Grown weary of me,  
 know that for the life  
 of me I'm at last
 
 sickened with the sight of my  
-tears with you marching
-briskly over those withered armfuls.
-The day will come when
-azaleas shall not shed
+tears with you marching  
+briskly over those withered armfuls.  
+The day will come when  
+azaleas shall not shed  
 tears. Azaleas by the
 
-armful — the azaleas
-flaming hillside — send
-you away wordlessly. So please,
-go. Walk into the
-sunset, weaving armfuls of
+armful — the azaleas  
+flaming hillside — send  
+you away wordlessly. So please,  
+go. Walk into the  
+sunset, weaving armfuls of  
 tears onto your path.  
 
 

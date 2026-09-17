@@ -3,14 +3,14 @@
 <article class="{{ partial "post-class.html" . }}" role="document"{{ with .Params.lang }} lang="{{ . }}"{{ end }}>
     <header>
         <h1 class="text-title">
-            {{ .Params.pageTitle | default .Title }}
+            {{ if (ne .Params.Lang "ko")}}{{ .Params.pageTitle | default .Title }}{{ else }}<ruby><rb>{{ .Params.pageTitle | default .Title }}</rb><rt>jindallaekkot</rt></ruby>{{ end }}
         </h1>
         <p class="byline">
             {{ if in (slice "drama" "narrative" "poem") $postType }}
                 {{ $showAuthor := .Site.Params.showAuthor | default false }}
                 {{ $author := partial "head/author.html" . }}
                 {{ if (and $showAuthor (ne $author ""))}}
-                    <span class="author">{{ if (ne .Params.Lang "ko")}}{{ i18n "by" $author }}{{ else }}{{ $author }}{{ end }}</span>
+                    <span class="author">{{ if (ne .Params.Lang "ko")}}{{ i18n "by" $author }}{{ else }}<ruby><rb>{{ $author }}<rt>gim sowol</rt></ruby>{{ end }}</span>
                     {{ with .Params.translator }}&middot; <span class="author"> translated by {{ . }}</span>{{ end }}
                 {{ end }}
             {{ end }}

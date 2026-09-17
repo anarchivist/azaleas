@@ -23,10 +23,18 @@ header a, main a {
 
 ruby {
     ruby-position: over;
+    margin-top: 8px;
 }
 
 rp, rt {
     font-size: 0.6em;
+}
+
+.poem-body rb {
+    line-height: 2rem;
+}
+.poem-body rp, .poem-body rt {
+    padding-bottom: 0.5em;
 }
 
 .post-meta.source::before {

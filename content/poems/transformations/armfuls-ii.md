@@ -22,7 +22,7 @@ hate to decide why.
 I know you'll leave me in the  
 shape of an armful  
 when you walk away. Make your  
-step lightly on the  
+steps lightly on the  
 
 flowers, each step soft, silent,  
 armfuls of aza-  

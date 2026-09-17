@@ -25,3 +25,7 @@ ruby {
     ruby-position: over;
 }
 
+rp, rt {
+    font-size: 0.6em;
+}
+

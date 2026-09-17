@@ -1,7 +1,7 @@
 ---
 title: Jindallae Flower
 translator: Jack Jung
-source: Kim Sowol, "'Jindallae Flower' and other poems." Tr. Jack Jung. *Changes,* 23 February 2021. <https://changes.press/three-poems-by-kim-sowol/>. 
+source: Kim Sowol, "'Jindallae Flower' and other poems." Jack Jung, tr. *Changes,* 23 February 2021. <https://changes.press/three-poems-by-kim-sowol/>. 
 ---
 
 Once I am shaped as the reason of your disgust, pushing  

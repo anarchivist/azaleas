@@ -6,6 +6,7 @@ author:
 menus:
   main:
     weight: -1
+    identifier: performance
 url: /performance
 ---
 

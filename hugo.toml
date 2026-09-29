@@ -8,6 +8,7 @@ uglyURLs = true
   url = "https://imprecision.art/"
   weight = 100
   name = "Imprecision"
+  identifier = "imprecision"
 
 [params]
   showAuthor = true

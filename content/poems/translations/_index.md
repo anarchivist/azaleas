@@ -3,6 +3,7 @@ title: Translations
 menus:
   main:
     weight: 10
+    identifier: translations
 ---
 
 This section collects English translations of Kim Sowol's poem <ruby><rb>[**진달래꽃**]({{% ref "진달래꽃" %}})</rb><rp>(</rp><rt>jindallaekkot</rt><rp>)</rp></ruby>. All translations whenever possible are sourced with a citation to their original source, or where the original source is not known, the source in which the translation was found. Both the full text of the translation and the source can be found by clicking through to the individual page for each translation.

@@ -3,17 +3,17 @@
 <article class="{{ partial "post-class.html" . }}" role="document"{{ with .Params.lang }} lang="{{ . }}"{{ end }}>
     <header>
         <h1 class="text-title">
-            {{ if (ne .Params.Lang "ko")}}{{ .Params.pageTitle | default .Title }}{{ else }}<ruby>{{ .Params.pageTitle | default .Title }}<rt>jindallaekkot</rt></ruby>{{ end }}
+            {{- if (ne .Params.Lang "ko")}}{{ .Params.pageTitle | default .Title }}{{ else }}<ruby>{{ .Params.pageTitle | default .Title }}<rp>(</rp><rt>jindallaekkot</rt><rp>)</rp></ruby>{{ end -}}
         </h1>
         <p class="byline">
-            {{ if in (slice "drama" "narrative" "poem") $postType }}
+            {{- if in (slice "drama" "narrative" "poem") $postType }}
                 {{ $showAuthor := .Site.Params.showAuthor | default false }}
                 {{ $author := partial "head/author.html" . }}
-                {{ if (and $showAuthor (ne $author ""))}}
-                    <span class="author">{{ if (ne .Params.Lang "ko")}}{{ i18n "by" $author }}{{ else }}<ruby>{{ $author }}<rt>gim sowol</rt></ruby>{{ end }}</span>
+                {{ if (and $showAuthor (ne $author "") -)}}
+                    <span class="author">{{ if (ne .Params.Lang "ko")}}{{ i18n "by" $author }}{{ else }}<ruby>{{ $author }}<rp>(</rp><rt>gim sowol</rt><rp>)</rp></ruby>{{ end }}</span>
                     {{ with .Params.translator }}&middot; <span class="author"> translated by {{ . }}</span>{{ end }}
                 {{ end }}
-            {{ end }}
+            {{ end -}}
         </p>
     </header>
 
